@@ -1,5 +1,5 @@
 # investopia-media-analysis
-Media analysis using Excel and Power BI (Feb–Mar 2024)
+Media analysis using Excel and Power BI 
 ---
 # Investopia Media Analysis Project (Feb–Mar 2024)
 
